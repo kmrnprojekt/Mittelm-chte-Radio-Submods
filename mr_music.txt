@@ -1,0 +1,91 @@
+music_station = "UKR_station"
+music = {
+	song = "Handzya"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = UKR
+			factor = 10
+		}
+	}
+}
+music = {
+	song = "I snilosya z nochy dyvchyny"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = UKR
+			factor = 10
+		}
+	}
+}
+music = {	
+	song = "Nashyo meni chorny brovy"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = UKR
+			factor = 10
+		}
+	}	
+}
+music = {	
+	song = "Oy ne svyty mysyachenku"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = UKR
+			factor = 10
+		}
+	}	
+}
+music = {	
+	song = "Oy u poly vyter vye"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = UKR
+			factor = 10
+		}
+	}
+}
+music = {
+	song = "Pryikhali tri kozaki"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = UKR
+			factor = 10
+		}
+	}
+}
+music = {	
+	song = "Solokha"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = UKR
+			factor = 10
+		}
+	}
+}
+music = {	
+	song = "Vidno shlyakhy poltavskyi"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = UKR
+			factor = 10
+		}
+	}
+}
+music = {	
+	song = "Vzyav by ya banduru"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = UKR
+			factor = 10
+		}
+	}
+}

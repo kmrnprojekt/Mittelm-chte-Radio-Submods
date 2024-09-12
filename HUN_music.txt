@@ -1,0 +1,102 @@
+music_station = "HUN_station"
+music = {
+	song = "Eredj ha tudsz"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = HUN
+			factor = 10
+		}
+	}
+}
+music = {
+	song = "Nagysasos asszonyom"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = HUN
+			factor = 10
+		}
+	}
+}
+music = {	
+	song = "Ne nezzen ugy ram"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = HUN
+			factor = 10
+		}
+	}	
+}
+music = {	
+	song = "Ne varjon tobbe engemet"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = HUN
+			factor = 10
+		}
+	}	
+}
+music = {	
+	song = "Ott fogsz madj sirni"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = HUN
+			factor = 10
+		}
+	}
+}
+music = {
+	song = "Szep vagy gyonyoru vagy Magyarorszag"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = HUN
+			factor = 10
+		}
+	}
+}
+music = {	
+	song = "Szidnak engem az emberek"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = HUN
+			factor = 10
+		}
+	}
+}
+music = {	
+	song = "Szulettem a Kiskunsagon"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = HUN
+			factor = 10
+		}
+	}
+}
+music = {	
+	song = "Tudom hogy szerettel"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = HUN
+			factor = 10
+		}
+	}
+}
+music = {	
+	song = "Tuzer indulo"
+	chance = {
+		factor = 0
+		modifier = {
+			tag = HUN
+			factor = 10
+		}
+	
+	}	
+}

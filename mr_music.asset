@@ -1,0 +1,37 @@
+music = {
+	
+	name = "Handzya"
+	file = "Handzya (Oksana Petrusenko).ogg"
+}
+music = {	
+	name = "I snilosya z nochy dyvchyny"
+	file = "I snilosya z nochy dyvchyny (Petro Bilynnyk).ogg"
+}
+music = {
+	name = "Nashyo meni chorny brovy"
+	file = "Nashyo meni chorny brovy (Oksana Petrusenko).ogg"
+}	
+music = {	
+	name = "Oy ne svyty mysyachenku"
+	file = "Oy ne svyty mysyachenku (Oksana Petrusenko).ogg"
+}
+music = {	
+	name = "Oy u poly vyter vye"
+	file = "Oy u poly vyter vye (Mykola Chastyi).ogg"
+}
+music = {	
+	name = "Pryikhali tri kozaki"
+	file = "Pryikhali tri kozaki (Mihaylo Grishko).ogg"
+}
+music = {	
+	name = "Solokha"
+	file = "Solokha (Oksana Petrusenko).ogg"
+}
+music = {	
+	name = "Vidno shlyakhy poltavskyi"
+	file = "Vidno shlyakhy poltavskyi (Oksana Petrusenko).ogg"
+}
+music = {	
+	name = "Vzyav by ya banduru"
+	file = "Vzyav by ya banduru (Andryi Kykot).ogg"
+}

@@ -1,0 +1,42 @@
+music = {
+	
+	name = "Eredj ha tudsz"
+	file = "Eredj ha tudsz (Kalmar Pal).ogg"
+}
+music = {	
+	name = "Nagysasos asszonyom"
+	file = "Nagysagos asszonyom (Kalmar Pal).ogg"
+}
+music = {
+	name = "Ne nezzen ugy ram"
+	file = "Ne nezzen ugy ram (Kalmar Pal).ogg"
+}	
+music = {	
+	name = "Ne varjon tobbe engemet"
+	file = "Ne varjon tobbe engemet (Kalmar Pal).ogg"
+}
+music = {	
+	name = "Ott fogsz madj sirni"
+	file = "Ott fogsz madj sirni (Sebo Miklos).ogg"
+}
+music = {	
+	name = "Szep vagy gyonyoru vagy Magyarorszag"
+	file = "Szep vagy gyonyoru vagy Magyarorszag (Kalmar Pal).ogg"
+}
+music = {	
+	name = "Szidnak engem az emberek"
+	file = "Szidnak engem az emberek (Mindszenthy Istvan).ogg"
+}
+music = {	
+	name = "Szulettem a Kiskunsagon"
+	file = "Szulettem a Kiskunsagon (Hamory Imre).ogg"
+}
+music = {	
+	name = "Tudom hogy szerettel"
+	file = "Tudom hogy szerettel (Mindszenthy Istvan).ogg"
+}
+music = {	
+	name = "Tuzer indulo"
+	file = "Tuzer indulo (Temerini tizesbanda).ogg"
+	
+}
